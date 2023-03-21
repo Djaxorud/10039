@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main() {
 	
 	int score = 0;//점수
